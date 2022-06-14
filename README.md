@@ -1,1 +1,5 @@
-# quantity-indicators-analysis
+# 数量指标分析
+这是一个行业最常用的显示评估系统。
+输入日盈亏csv文件
+输入开始和结束日
+输出各项指标
